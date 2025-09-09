@@ -1,7 +1,7 @@
 # Getting Started with App
 
 # Installation
-Clone the repository: https://github.com/Vickysharma6209/E_com_website.git
+Clone the repository: https://github.com/singhaadarsh1/projectX.git
 Install dependencies:
 
   cd "specified folder"
